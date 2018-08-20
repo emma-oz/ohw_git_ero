@@ -1,2 +1,2 @@
 # ohw_git_ero
-Repository for Oceanhackweek examples
+Repository for Oceanhackweek examples to practice git & github
